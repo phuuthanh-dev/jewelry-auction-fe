@@ -24,6 +24,7 @@
     "bootstrap": "^5.3.3",
     "chart.js": "^4.4.3",
     "ckeditor5-custom-build": "file:ckeditor5",
+    "date-fns": "^4.1.0",
     "dayjs": "^1.11.11",
     "firebase": "^10.12.2",
     "formik": "^2.4.6",
